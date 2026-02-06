@@ -1,5 +1,3 @@
-# DMA-Explorer.github.io
-DMA Explorer
 <!DOCTYPE html>
 <html lang="en">
 <head>
